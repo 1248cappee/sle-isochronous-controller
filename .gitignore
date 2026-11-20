@@ -1,0 +1,15 @@
+# 本地参考资料和开发文档
+/BIS_开发参考包/
+/doc/
+*.docx
+*.pdf
+
+# 回归和仿真输出
+**/results/
+*.log
+*.exe
+*.o
+*.wdb
+*.vcd
+xsim.dir/
+.Xil/
